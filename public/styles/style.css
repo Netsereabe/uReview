@@ -16,5 +16,4 @@ html {
 body {
   font-family: sans-serif;
   color: var(--gray);
-  overflow-x: hidden;
 }
